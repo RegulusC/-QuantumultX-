@@ -1,22 +1,15 @@
 // @Name              QX 解锁网易云服务器
-// @Author            Cuttlefish
-// @UpdateTime        20210508
-// @Explain           #网抑云 
-// @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Server/Netease.list
-// ==/UserScript==
+// @Author            RegulusC
+// @Explain           #网易云解锁
 
-http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐1
+http=0.0.0.0:10000, over-tls=false, fast-open=false, udp-relay=false, tag=第一项有数值就代表可用
 
-http=aimer.one:3333,fast-open=false, udp-relay=false, tag=网易云音乐2
+http=lolico.me:443, over-tls=false, fast-open=false, udp-relay=false,tag=🎵网易云解锁1
 
-http=block4music.poetyin.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐3
+http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=🎵网易云解锁2
 
-http=lolico.me:443, over-tls=false, fast-open=false, udp-relay=false,tag=网易云音乐4
+http=music.griouges.cn:39000, over-tls=false, fast-open=false, udp-relay=false,tag=🎵网易云解锁3
 
-http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐5
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎸网易云解锁4
 
-http=music.griouges.cn:39000, over-tls=false, fast-open=false, udp-relay=false,tag=网易云音乐6
 
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=网易云音乐7
-
-http=100.100.100.100:10000, over-tls=false, fast-open=false, udp-relay=false, tag=第一项有数值就代表可用
