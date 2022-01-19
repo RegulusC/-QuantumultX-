@@ -2,7 +2,7 @@
 // @Author            RegulusC
 // @Explain           #网易云解锁
 
-http=0.0.0.0:10000, over-tls=false, fast-open=false, udp-relay=false, tag=第一项有数值就代表可用
+http=0.0.0.0:10000, over-tls=false, fast-open=false, udp-relay=false, tag=以下由RC整理于网络
 
 http=lolico.me:443, over-tls=false, fast-open=false, udp-relay=false,tag=🎵网易云解锁1
 
