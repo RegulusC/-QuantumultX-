@@ -14,10 +14,7 @@ shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.
 
 shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎸网易云解锁5
 
-
 http=101.132.79.113:23333, fast-open=false, udp-relay=false, tag=🎻网易云解锁6
 
-http=1.116.214.16:19980, over-tls=false, fast-open=false, udp-relay=false, tag=🎻网易云解锁7
-
-http=salvan.icu:19980, over-tls=false, fast-open=false, udp-relay=false, tag=🎻网易云解锁8
+http=salvan.icu:19980, over-tls=false, fast-open=false, udp-relay=false, tag=🎻网易云解锁7
 
